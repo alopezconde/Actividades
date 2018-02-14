@@ -1,0 +1,18 @@
+BASE DE DATOS "CASA DE LA MUJER"
+
+El centro de capacitación la casa de la mujer, brinda cursos de formación para el empleo a grupos de jovenes y adultos, mujeres y hombres.
+las areas de capacitación se definen buscando flexibilizar los estereotipos de genero y en función a la demanda de mercado, intereses de los postulantes,
+y oportunidades de innovación.
+
+Se necesita crear una base de datos que permita organizar la informacion de cada persona matriculada en los distintos cursos de la casa de la mujer, que debe 
+constar de: 
+- Unos estudiantes, los cuales deben tener registrado su nombre, edad, telefono, direccion, numero de identificacion, teniendo en cuenta que este puede ser cedula o targeta de identetidad.
+- Los cursos son cuatro, -cocina, modisteria, peluqueria, mecanica de motos.
+- caracteristicas de los cursos, deben contener: cantidad de personas inscritas, cupo por curso, horario de clases, numero de horas, fecha de 
+inicio y finalización. 
+
+y de unos materiales a usar por curso.
+
+INTEGRANTES:
+ANDREA LÓPEZ CONDE
+MARIA JIMENEZ HERNANDEZ 
