@@ -1,0 +1,24 @@
+                                                                              ACTIVIDAD 2
+
+Los ejercicios del taller estan representados en las imagenes nombradas como EJERCICIO con su respectivo numero por punto. 
+algunos de los ejercicios fueron descritos en este documento debido a que requerian explicación.
+
+EJERCICO 4:
+A) restricciones: se debe hacer cambios en algunas cardinalidades
+B) se debe cambiar la cardinalidad de 1:n por n:1 ya que muchos productos requieren un solo promotor
+C) este punto esta representado en la imagen EJERCICIO 4.
+
+EJERCICIO 5:
+A) su representacion puede variar debido a que los padres pueden tener varios hijos
+   y que un hijo no siempre es unico puede que tenga hermanos
+B) este punto esta representado en la imagen EJERCICIO 5.
+
+EJERCICIO 6:
+Este ejercicio consta de dos imagenes donde se representan los puntos A y B. Nombradas como
+EJERCICIO 6 y EJERCICIO 6.2
+
+INTEGRANTES:
+ANDREA LÓPEZ CONDE
+MARIA JIMENEZ HERNANDEZ
+
+
